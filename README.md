@@ -26,11 +26,14 @@ genomförs på med ett agilt arbetssätt.
 * [01 - Kursintro](https://docs.google.com/presentation/d/1h6CiKEg0x0A6TQD3N2Vgb7_HzA6ZvCrI/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [02 - Från Vattenfall till Agilt](https://docs.google.com/presentation/d/1bL3a75Pbnq0VxrDe0KIrTiTD198yCnyr/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [03 - Kanban](https://docs.google.com/presentation/d/17QCnDSNrL9FZfXVllkTaneuvZWMfIhX8/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [04 - Scrum]() - inte uppe ännu!
+* [04 - Scrum](https://docs.google.com/presentation/d/1ms40X_MY93XCx1prZX8SNgS2tYgY6pFl/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
 **LIVE**
+
+* [Kursintroduktion](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EbRNRQI5DLpEnewVd4omqo0Be4daJ_DE37oLRnI9QOuZZQ?e=AAycpO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Kanban](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EXtY1o-kIuJGsdyy6tBzHvYBGXb9kS6JbFqtki1xI3hFKQ?e=4gRzCB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (för distansklassen)
 
